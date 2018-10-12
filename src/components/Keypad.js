@@ -3,7 +3,7 @@
 class Keypad extends React.Component {
  
   Keypad = () => {
-    console.log('Tee hee!');
+    console.log('Entering password...');
   }
  
   render() {
