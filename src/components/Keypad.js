@@ -1,6 +1,6 @@
 // Code Keypad Component Here
 
-class Tickler extends React.Component {
+class Keypad extends React.Component {
  
   tickle = () => {
     console.log('Tee hee!');
