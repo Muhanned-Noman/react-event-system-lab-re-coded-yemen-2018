@@ -8,7 +8,7 @@ class Keypad extends React.Component {
  
   render() {
     return (
-      <button>Tickle me!</button>
+      <button onClick={this.Keypad}>Tickle me!</button>
     );
   }
 }
