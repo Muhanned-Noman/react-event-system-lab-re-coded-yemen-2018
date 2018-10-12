@@ -2,7 +2,7 @@
 
 class Keypad extends React.Component {
  
-  tickle = () => {
+  Keypad = () => {
     console.log('Tee hee!');
   }
  
